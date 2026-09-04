@@ -4,7 +4,11 @@
 This project analyzes investor preferences, behavior, savings objectives, investment duration, expected returns, and information sources using **Python** and **Power BI**.
 
 The project was completed as part of the **Cognifyz Technologies Business Analytics Internship**. The internship task document defines 10 tasks across Beginner, Intermediate, Advanced, and Expert levels, including data overview, gender distribution, descriptive statistics, investment preferences, savings objectives, information sources, investment duration, expectations, and correlation analysis.
+##Power BI Data Model
 
+<p align="center">
+  <img src="images/data-model.png" alt="Power BI Data Model" width="1000">
+</p>
 ## Objectives
 - Understand the structure of the investment dataset.
 - Analyze investor demographics and investment preferences.
