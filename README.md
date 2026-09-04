@@ -7,7 +7,7 @@ The project was completed as part of the **Cognifyz Technologies Business Analyt
 ##Power BI Data Model
 
 <p align="center">
-  <img src="images/data-model.png" alt="Power BI Data Model" width="1000">
+  <img src="images/Screenshot 2026-08-30 213619.png" alt="Power BI Data Model" width="1000">
 </p>
 ## Objectives
 - Understand the structure of the investment dataset.
